@@ -49,11 +49,6 @@ A web app that predicts likely diseases from selected symptoms.
 
 `Python` `Scikit-learn` `Random Forest` `Streamlit`
 
-### 🎙️ KARG: Voice AI Assistant
-A voice assistant with a **LiveKit Agents** backend and an **Android app** built in Kotlin with Jetpack Compose, tested end to end on a physical device.
-
-### 🔎 RAG Pipeline from Scratch *(in progress)*
-A retrieval-augmented generation system built without framework abstractions, with an evaluation harness to measure retrieval quality.
 
 ---
 
